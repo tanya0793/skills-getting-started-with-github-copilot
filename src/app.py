@@ -105,8 +105,7 @@ activities = {
         "max_participants": 12,
         "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
     },
-    "Programming Class": {
-        },
+    
         "Debate Team": {
             "description": "Develop public speaking and argumentation skills",
             "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
@@ -123,7 +122,7 @@ activities = {
             "description": "Conduct experiments and explore STEM topics",
             "schedule": "Mondays, 4:00 PM - 5:00 PM",
             "max_participants": 18,
-            "participants": ["lucas@mergington.edu", "mia@mergington.edu"]
+            "participants": ["lucas@mergington.edu", "mia@mergington.edu"],
         "description": "Learn programming fundamentals and build software projects",
         "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
         "max_participants": 20,
